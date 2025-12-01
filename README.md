@@ -1,2 +1,2 @@
-# uzabila-social-links
-Uzabila social links plugin for Wordpress
+# uxuimedia-social-links
+"Social links" plugin for Wordpress CMS
